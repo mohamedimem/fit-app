@@ -1,0 +1,34 @@
+[
+  {
+    "day": "1",
+    "exerciseNum": "2",
+    "totalDuration": ["0", "2"],
+    "cost": 20,
+    "story": "cold weather",
+    "level": "hard",
+    "quotes": "today life is hard",
+    "exercises": [
+      { 
+        "prepare":"for a run",
+        "name": "burpees",
+        "duration": ["0", "2"],
+        "repetition": 40,
+        "level": "hard",
+        "imageUrl": [
+          "https://d326fntlu7tb1e.cloudfront.net/uploads/d60aca33-909b-4df7-9ad7-b75039438e29-GX1398_a1.webp",
+          "https://d326fntlu7tb1e.cloudfront.net/uploads/d60aca33-909b-4df7-9ad7-b75039438e29-GX1398_a1.webp"
+        ]
+      },
+      {
+        "name": "burpees",
+        "duration": ["0", "2"],
+        "repetition": 40,
+        "level": "hard",
+        "imageUrl": [
+          "https://d326fntlu7tb1e.cloudfront.net/uploads/d60aca33-909b-4df7-9ad7-b75039438e29-GX1398_a1.webp",
+          "https://d326fntlu7tb1e.cloudfront.net/uploads/d60aca33-909b-4df7-9ad7-b75039438e29-GX1398_a1.webp"
+        ]
+      }
+    ]
+  }
+]
